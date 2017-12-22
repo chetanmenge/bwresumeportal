@@ -145,7 +145,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="filebutton">Upload Resume</label>
   <div class="col-md-4">
-    <input id="file" name="file" class="input-file" type="file">
+    <input id="file" name="file" class="input-file" type="file" multiple>
   </div>
 </div>
 
